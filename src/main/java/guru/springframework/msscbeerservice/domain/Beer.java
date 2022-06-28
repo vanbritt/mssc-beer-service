@@ -37,6 +37,6 @@ public class Beer {
     private Long upc;
     private BigDecimal price;
 
-    private Long quantityOnHand;
+    private Long minOnHand;
     private Long quantityToBrew;
 }

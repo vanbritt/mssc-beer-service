@@ -19,6 +19,7 @@ class BeerControllerTest {
 
     @Autowired
     MockMvc mockMvc;
+
     @Autowired
     ObjectMapper objectMapper;
 
